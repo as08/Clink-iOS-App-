@@ -21,7 +21,11 @@ It was built as a simple magic-performance utility: on an OLED iPhone, the all-b
 
 ## Bluetooth keypad mapping
 
-Keypad used: https://www.amazon.co.uk/dp/B0C7BC5QM4
+Keypad used: 
+
+https://www.amazon.co.uk/dp/B0C7BC5QM4
+
+https://www.amazon.com/dp/B091V12J6Z
 
 Brand: VBESTLIFE
 
