@@ -96,4 +96,4 @@ Clink contains no networking, analytics, advertising, tracking, account system o
 
 ## License
 
-MIT License: Free to use, modify, and distribute your code for both commercial and non-commercial purposes. 
+MIT License: Free to use, modify, and distribute for both commercial and non-commercial purposes. 
