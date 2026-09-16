@@ -22,7 +22,9 @@ It was built as a simple magic-performance utility: on an OLED iPhone, the all-b
 ## Bluetooth keypad mapping
 
 Keypad used: https://www.amazon.co.uk/dp/B0C7BC5QM4
+
 Brand: VBESTLIFE
+
 Model name: VBESTLIFEf7ikx1s5p9
 
 The keypad used with the original project sends two characters for each direction:
